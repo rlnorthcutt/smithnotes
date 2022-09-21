@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "StoreManager",
+    "pageId": "Home",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tnotes: [],\n\tcategories: {},\n\tnew: () => {\n\t\t//write code here\n\t},\n\tsave: () => {\n\t\t//write code here\n\t},\n\tread: () => {\n\t\t//write code here\n\t},\n\tdelete: () => {\n\t\t//write code here\n\t}\n}",
+    "variables": [
+      {
+        "name": "notes",
+        "value": "[]"
+      },
+      {
+        "name": "categories",
+        "value": "{}"
+      }
+    ]
+  },
+  "id": "Home_StoreManager",
+  "deleted": false,
+  "gitSyncId": "630e55cd1274f8409e77c32f_631b8d2a236aad0c01cfb2b6"
+}
