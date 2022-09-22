@@ -108,7 +108,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "#FFC13D",
-                      "text": "Estimated reading time of 1 min",
+                      "text": "Contains 8 words, 22 characters",
                       "key": "xmr2j2nkfq",
                       "isDeprecated": false,
                       "rightColumn": 32,
@@ -324,7 +324,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "#FFC13D",
-                      "text": "Contains 8 words, 22 characters",
+                      "text": "Estimated reading time of 1 min",
                       "key": "xmr2j2nkfq",
                       "isDeprecated": false,
                       "rightColumn": 64,
@@ -664,7 +664,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 20.15625,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 5,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -678,7 +678,7 @@
                       "text": "NoteSmith\n",
                       "key": "xmr2j2nkfq",
                       "isDeprecated": false,
-                      "rightColumn": 59,
+                      "rightColumn": 43,
                       "textAlign": "CENTER",
                       "widgetId": "haxel54tgg",
                       "isVisible": true,
