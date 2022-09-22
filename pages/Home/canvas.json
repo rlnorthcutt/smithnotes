@@ -186,7 +186,7 @@
                       "topRow": 12,
                       "bottomRow": 16,
                       "parentRowSpace": 10,
-                      "labelWidth": 5,
+                      "labelWidth": "3",
                       "autoFocus": false,
                       "type": "INPUT_WIDGET_V2",
                       "hideCard": false,
@@ -204,7 +204,7 @@
                         }
                       ],
                       "labelPosition": "Left",
-                      "labelStyle": "",
+                      "labelStyle": "ITALIC",
                       "labelTextColor": "#f4f4f5",
                       "inputType": "TEXT",
                       "maxChars": "200",
@@ -213,7 +213,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 38,
+                      "rightColumn": 37,
                       "widgetId": "ei9dg2p1mh",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
                       "isVisible": true,
@@ -276,6 +276,7 @@
                           "value": "RED"
                         }
                       ],
+                      "labelStyle": "ITALIC",
                       "labelTextColor": "#f4f4f5",
                       "placeholderText": "Select option(s)",
                       "isDisabled": false,
